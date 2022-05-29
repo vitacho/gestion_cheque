@@ -3,3 +3,23 @@ body{
 }
 
 .heading { color: #fff; }
+
+.table_1{
+    color: #fff;
+    background-color: #212529;
+    border: 20px;
+    border-collapse: collapse;
+    text-align: left;
+    display: block;
+    overflow-x: auto;
+    
+    
+
+}
+
+th, td{
+
+padding: 0.3em;
+border-bottom: 1px solid #fff;
+
+}
