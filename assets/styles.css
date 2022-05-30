@@ -1,12 +1,16 @@
 body{
-    background-color: #1d1b1b;;
+    background-color: #1d1b1b;
+    text-align: justify;
 }
 
 .heading { color: #fff; }
-
+.heading1 {color: #fca311; }
+.heading4 { color: #e5e5e5; }
+.heading2{color: #000;}
+.heading3{color: #14213d;}
 .table_1{
-    color: #fff;
-    background-color: #212529;
+    color: #FFF;
+    background-color: #14213d ;
     border: 20px;
     border-collapse: collapse;
     text-align: left;
@@ -20,6 +24,10 @@ body{
 th, td{
 
 padding: 0.3em;
-border-bottom: 1px solid #fff;
+border-bottom: 1px solid #e5e5e5;
 
 }
+p{
+    text-align: justify;
+}
+
